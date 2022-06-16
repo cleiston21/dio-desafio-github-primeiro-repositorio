@@ -1,0 +1,14 @@
+
+
+ ls -a //mostra arquivos ocultos
+
+git status // mostra o status dos commites
+
+mv <nome arquivo ./<nome pasta nova> // move um arquivo da pasta original para uma pasta nova já criada
+
+git add * // adiciona todas as modificações feitas no repositorio no curso
+
+git push  origin master // subindo arquivo para o github
+
+git pull origin master // puxa o arquivo no github para o repositorio local
+
